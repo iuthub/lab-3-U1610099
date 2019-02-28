@@ -1,0 +1,81 @@
+body
+{
+	color: rgb(97, 139, 214);
+	font-family: Time New Roman;
+}
+div.mean
+{
+
+	margin: 50px auto;
+	border: 5px solid green;
+	width: 900px;
+	height: 540px;
+}
+.redBox
+{
+	margin: 0px auto;
+	border: 5px solid red;
+	width: 890px;
+	height: 100px;
+}
+.blueBox
+{
+	margin: 0px auto;
+	border: 5px solid blue;
+	width: 890px;
+	height: 160px;
+}
+.blueBox2
+{
+	margin: 0px auto;
+	border: 5px solid blue;
+	width: 890px;
+	height: 250px;
+}
+.orangeBox
+{
+	margin:-10px auto;
+	border: 5px solid orange;
+	width: 858px;
+	height: 28px;
+}
+h1
+{
+	font-size: 25px;
+	margin-left: 16px;
+
+}
+.orangeBox p
+{
+	font-size: 18px;
+	margin-left: 5px;
+	margin-top: 5px;
+
+}
+ p
+{
+	font-size: 18px;
+	margin-left: 17px;
+	margin-top: 5px;
+
+}
+span
+{
+	border: 5px solid purple;
+}
+.blueBox img
+{
+	width: 90px;
+	height: 90px;
+	margin-left: 17px;
+	display: block;
+
+}
+.blueBox2 img
+{
+	width: 135px;
+	height: 135px;
+	margin-left: 17px;
+	display: block;
+
+}

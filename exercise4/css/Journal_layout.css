@@ -1,0 +1,89 @@
+body
+{
+	color: rgb(97, 139, 214);
+	font-family: Time New Roman;
+	background-image: url(../images/back.gif);
+	
+}
+div.mean
+{
+
+	margin: 50px auto;
+	border: 10px solid white;
+	width: 900px;
+	height: 540px;
+	background-color: white;
+}
+.redBox
+{
+	margin: 0px auto;
+	border: 5px solid #A8F0F0;
+	width: 890px;
+	height: 100px;
+	background-color: #A8F0F0;
+}
+.blueBox
+{
+	margin: 10px auto;
+	border: 4px solid #C2E9E9;
+	width: 890px;
+	height: 160px;
+	background-color: #E8FBFB;
+}
+.blueBox2
+{
+	margin: 10px auto;
+	border: 4px solid #C2E9E9;
+	width: 890px;
+	height: 230px;
+	background-color: #E8FBFB;
+}
+.orangeBox
+{
+	margin:10px auto;
+	width: 858px;
+	height: 28px;
+	float: right;
+	font-size: 14px;
+}
+h1
+{
+	font-size: 25px;
+	margin-left: 16px;
+	float:right;
+
+}
+.orangeBox p
+{
+	font-size: 18px;
+	margin-top: 5px;
+	float: right;
+
+}
+ p
+{
+	font-size: 18px;
+	margin-left: 17px;
+	margin-top: 5px;
+
+}
+span
+{
+	border-bottom: 2px dashed blue;
+}
+.blueBox img
+{
+	width: 90px;
+	height: 90px;
+	margin-right: 10px;
+	float: right;
+
+}
+.blueBox2 img
+{
+	width: 135px;
+	height: 135px;
+	margin-right: 10px;
+	float: right;
+
+}
